@@ -1,0 +1,6 @@
+"keywords": ["lutyi", "ponchik"],
+  "homepage": "https://github.com/Dayana-Olanova/hexlet-js.git",
+  "bugs": {
+    "url": "https://github.com/owner/project/issues",
+    "email": "project@hostname.com"
+  },
